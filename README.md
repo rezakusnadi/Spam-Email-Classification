@@ -60,6 +60,6 @@ Karena data target balanced, tidak di perlukan over maupun undersampling, sehing
 ![image](https://github.com/user-attachments/assets/2b37d734-3535-4461-ac52-c794f0526084)
 
 
-#Split Data Train And Test
+# Split Data Train And Test
 
 
