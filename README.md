@@ -53,9 +53,13 @@ Drop kolom yang tidak dibutuhkan dalam interpreasi model (['Email','Subject','Se
 Pengecekan Target Analysis [Spam Indicator] pada data set
 Karena data target balanced, tidak di perlukan over maupun undersampling, sehingga langsung split data
 
-Spam Indicator	count	percentage
- 0	     3018	            50.3
- 1	     2982	            49.7
+ Spam Indicator |   count    |	percentage
+      0	        |    3018	   |       50.3
+      1	        |    2982	   |       49.7
 
- ![image](https://github.com/user-attachments/assets/71c15677-32b1-41ed-950e-f72f3faed579)
+![image](https://github.com/user-attachments/assets/2b37d734-3535-4461-ac52-c794f0526084)
+
+
+#Split Data Train And Test
+
 
