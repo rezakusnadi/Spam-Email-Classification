@@ -42,3 +42,20 @@ Check the correlation on data before drop the columns for dimensional reduction 
 
 ![image](https://github.com/user-attachments/assets/dc31729a-9542-4cd2-bc1e-e352773e2cd9)
 
+
+# Drop Columns
+
+Drop kolom yang tidak dibutuhkan dalam interpreasi model (['Email','Subject','Sender','Recipient','Date','Time'])
+
+
+# Target Analysis
+
+Pengecekan Target Analysis [Spam Indicator] pada data set
+Karena data target balanced, tidak di perlukan over maupun undersampling, sehingga langsung split data
+
+Spam Indicator	count	percentage
+ 0	     3018	            50.3
+ 1	     2982	            49.7
+
+ ![image](https://github.com/user-attachments/assets/71c15677-32b1-41ed-950e-f72f3faed579)
+
