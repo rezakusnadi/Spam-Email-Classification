@@ -37,4 +37,8 @@ Pengecekan DataFrame, Unique Value, Info, Missing Value, Duplicate Check yang da
 
 # Correlation Analysis
 
+Korelasi Ceck sebelum drop data pada kolom untuk pengurangan dimensi dan meningkatkan interpretabilitas model dan kolom
+Check the correlation on data before drop the columns for dimensional reduction and improve model interpretabilty and dependecies of the columns
+
+![image](https://github.com/user-attachments/assets/dc31729a-9542-4cd2-bc1e-e352773e2cd9)
 
