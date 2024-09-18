@@ -72,4 +72,4 @@ Melakukan scale data sesudah Split data train test, agar tidak adanya kebocoran 
 
 # Model & Evaluate
 
- # Logistic Regression
+ ## Logistic Regression
