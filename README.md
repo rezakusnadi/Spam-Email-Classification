@@ -112,7 +112,7 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
       f1_score  =	0.492377
       AUC	      = 0.464789
 
-    ![image](https://github.com/user-attachments/assets/e98afeec-22cd-4961-99ac-2b7b4cbeff55)
+   ![image](https://github.com/user-attachments/assets/e98afeec-22cd-4961-99ac-2b7b4cbeff55)
 
       - Overal Evaluasi menunjukkan penggunaan Random Forest Classifier hanya mencapai 49% accuracy lebih rendah dibandingan Logistic Regression
       - Nilai Recall lebih rendah pada kategori Spam(1) mengidentifikasikan bahwa model masih kesulitan dalam menentukan Spam
