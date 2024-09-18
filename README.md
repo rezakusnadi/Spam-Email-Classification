@@ -62,4 +62,14 @@ Karena data target balanced, tidak di perlukan over maupun undersampling, sehing
 
 # Split Data Train And Test
 
+Split data menbjadi training (X_train, y_train) dan testing (X_test, y_test) 
 
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
+
+# Scale Data
+
+Melakukan scale data sesudah Split data train test, agar tidak adanya kebocoran data, dengan kata lain mempengaruhi proses train data pada model
+
+# Model & Evaluate
+
+ # Logistic Regression
