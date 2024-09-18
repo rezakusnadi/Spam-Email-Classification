@@ -139,3 +139,9 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
 
    ![image](https://github.com/user-attachments/assets/ba76a4eb-7efb-41fd-80ca-d55d72eb3f94)
 
+
+# Hyperparameter
+   
+  Best Hyperparameters: {'criterion': 'entropy', 'max_depth': 7, 'min_samples_split': 85, 'splitter': 'random'}
+  Best Accuracy: 0.5142222222222221
+  Test Accuracy: 0.5193333333333333
