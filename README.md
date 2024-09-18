@@ -84,7 +84,7 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
      AUC	      = 0.505010
    
      
-     ![image](https://github.com/user-attachments/assets/6a687467-23f3-4031-ab53-7e6e33938059)
+   ![image](https://github.com/user-attachments/assets/6a687467-23f3-4031-ab53-7e6e33938059)
    
      - Penggunaan model menunjukkan Logistic Regression hanya mencapai 50% accuracy
      - F1-Score 50% kinerja seimbang antara Precision dan Recall
@@ -99,7 +99,7 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
      f1_score  =	0.511417
      AUC	      = 0.493075
 
-     ![image](https://github.com/user-attachments/assets/6990eaa0-e475-4e83-9228-b3d0b6a10adc)
+   ![image](https://github.com/user-attachments/assets/6990eaa0-e475-4e83-9228-b3d0b6a10adc)
 
      - Model lebih baik dalam memprediksi NonSpam (0)
      - kinerja presentase accuracy 51% lebih tinggi dibandingkan Logistic Regression
@@ -112,7 +112,7 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
       f1_score  =	0.492377
       AUC	      = 0.464789
 
-      ![image](https://github.com/user-attachments/assets/e98afeec-22cd-4961-99ac-2b7b4cbeff55)
+    ![image](https://github.com/user-attachments/assets/e98afeec-22cd-4961-99ac-2b7b4cbeff55)
 
       - Overal Evaluasi menunjukkan penggunaan Random Forest Classifier hanya mencapai 49% accuracy lebih rendah dibandingan Logistic Regression
       - Nilai Recall lebih rendah pada kategori Spam(1) mengidentifikasikan bahwa model masih kesulitan dalam menentukan Spam
@@ -127,7 +127,7 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
       f1_score  =	0.503002
       AUC	      = 0.490075
 
-      ![image](https://github.com/user-attachments/assets/954ce6b3-6200-4544-8330-2de901312783)
+   ![image](https://github.com/user-attachments/assets/954ce6b3-6200-4544-8330-2de901312783)
 
    ## XGBoost
 
@@ -137,5 +137,5 @@ melakukan uji dengan banyak model untuk menentukan accuracy, precision, recall, 
       f1_score  =	0.516480
       AUC	      = 0.492286
 
-      ![image](https://github.com/user-attachments/assets/ba76a4eb-7efb-41fd-80ca-d55d72eb3f94)
+   ![image](https://github.com/user-attachments/assets/ba76a4eb-7efb-41fd-80ca-d55d72eb3f94)
 
